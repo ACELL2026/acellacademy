@@ -1,0 +1,85 @@
+{
+  "brand": {
+    "name": "أكاديمية أسيل",
+    "author": "يوسف محمد عبدالسلام",
+    "tagline": "القواعد ليست مجموعة قوانين، بل طريقة للرؤية."
+  },
+  "nav": {
+    "home": "الرئيسية", "books": "الكتب", "courses": "الدورات",
+    "announcements": "الإعلانات", "consultancy": "الاستشارات",
+    "articles": "المقالات", "about": "نبذة", "contact": "تواصل",
+    "menu": "القائمة", "close": "إغلاق", "skipToContent": "تخطَّ إلى المحتوى"
+  },
+  "home": {
+    "lede": "كتب ودورات واستشارات لمتعلمي اللغة الإنجليزية ومعلميها.",
+    "featuredCourse": "دورة مختارة",
+    "featuredBook": "كتاب مختار"
+  },
+  "course": {
+    "lessons": "درسًا", "units": "وحدات", "perCohort": "للفوج الواحد",
+    "whatYouWalkAwayWith": "ما ستخرج به",
+    "whoItsFor": "لمن هذه الدورة",
+    "theFiveUnits": "الوحدات الخمس",
+    "performanceTask": "المهمة الأدائية",
+    "whyDifferent": "ما الذي يميزها"
+  },
+  "service": { "format": "الصيغة", "scope": "النطاق", "whoFor": "لمن" },
+  "announcements": {
+    "empty": "لا توجد إعلانات بعد.",
+    "newlyPublished": "إعلان جديد",
+    "readIt": "اقرأه",
+    "more": "اقرأ المزيد"
+  },
+  "articles": { "empty": "المقالات في الطريق." },
+  "about": { "placeholder": "السيرة وفلسفة التدريس — قريبًا." },
+  "contact": {
+    "name": "الاسم", "email": "البريد الإلكتروني", "message": "الرسالة",
+    "send": "إرسال", "sending": "جارٍ الإرسال…",
+    "sent": "شكرًا لك — تم استلام رسالتك.",
+    "error": "حدث خطأ. حاول مرة أخرى، أو راسلنا مباشرة.",
+    "orEmail": "أو راسلنا مباشرة:"
+  },
+  "refund": { "heading": "الاسترجاع والإلغاء", "fullPolicy": "اقرأ السياسة كاملة" },
+  "status": {
+    "checking": "جارٍ التحقق…", "published": "منشور", "comingSoon": "قريبًا",
+    "announced": "مُعلن", "enrollment_open": "التسجيل مفتوح",
+    "closing_soon": "يُغلق قريبًا", "full": "مكتمل", "in_progress": "جارٍ",
+    "completed": "منتهٍ", "archived": "مؤرشف", "available": "متاح",
+    "limited": "أماكن محدودة", "fully_booked": "محجوز بالكامل", "draft": "مسودة"
+  },
+  "cta": {
+    "viewDetails": "عرض التفاصيل", "enrol": "سجّل الآن", "joinWaitlist": "انضم لقائمة الانتظار",
+    "registerInterest": "سجّل اهتمامك", "book": "احجز", "enquire": "استفسر"
+  },
+  "seats": { "fewLeft": "بقيت أماكن قليلة" },
+  "time": { "d": "ي", "h": "س", "m": "د", "closed": "مغلق" },
+  "policy": {
+    "course": {
+      "fullRefundBefore": "الإلغاء قبل أكثر من ٧ أيام من البداية: استرداد كامل.",
+      "creditWithin": "الإلغاء خلال ٧ أيام: رصيد لفوج قادم.",
+      "noneAfterStart": "لا استرداد بعد بدء الدورة.",
+      "weCancelFullRefund": "إذا ألغينا أو أجّلنا، تحصل على استرداد كامل. دائمًا."
+    },
+    "booking": {
+      "fullRefundNotice": "الإلغاء بإشعار ٢٤ ساعة أو أكثر: استرداد كامل.",
+      "lateBecomesCredit": "الإلغاء بإشعار أقل: تُحفظ القيمة كرصيد، ولا تُفقد.",
+      "creditValidity": "الرصيد صالح لمدة ٩٠ يومًا.",
+      "weCancelFullRefund": "إذا ألغينا، تحصل على استرداد كامل. دائمًا."
+    },
+    "physical": {
+      "noChangeOfMind": "لا استرداد لتغيير الرأي.",
+      "faultyReplaced": "يُستبدل أو يُسترد ثمن المفقود أو التالف أو الخاطئ."
+    }
+  },
+  "footer": {
+    "newsletter": "النشرة البريدية",
+    "newsletterBlurb": "رسائل متفرقة عن اللغة والتدريس والأعمال الجديدة.",
+    "emailLabel": "البريد الإلكتروني", "subscribe": "اشترك",
+    "explore": "استكشف", "legal": "قانوني", "privacy": "الخصوصية",
+    "terms": "الشروط", "refunds": "سياسة الاسترجاع", "rights": "جميع الحقوق محفوظة."
+  },
+  "a11y": { "mainNav": "التنقل الرئيسي", "footerNav": "تنقل التذييل" },
+  "theme": { "toggle": "تغيير المظهر" },
+  "locale": { "label": "اللغة" },
+  "review": { "banner": "نص مؤقت — لم تكتبه بنفسك. حرّره قبل نشر الصفحة." }
+}

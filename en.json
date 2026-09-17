@@ -1,0 +1,85 @@
+{
+  "brand": {
+    "name": "ACELL Academy",
+    "author": "Yosuef Mohamed Abdusalam",
+    "tagline": "Grammar is not a set of rules. It is a way of seeing."
+  },
+  "nav": {
+    "home": "Home", "books": "Books", "courses": "Courses",
+    "announcements": "Announcements", "consultancy": "Consultancy",
+    "articles": "Articles", "about": "About", "contact": "Contact",
+    "menu": "Menu", "close": "Close", "skipToContent": "Skip to content"
+  },
+  "home": {
+    "lede": "Books, courses and consultancy for learners and teachers of English.",
+    "featuredCourse": "Featured course",
+    "featuredBook": "Featured book"
+  },
+  "course": {
+    "lessons": "lessons", "units": "units", "perCohort": "per cohort",
+    "whatYouWalkAwayWith": "What you'll walk away with",
+    "whoItsFor": "Who it's for",
+    "theFiveUnits": "The five units",
+    "performanceTask": "Performance task",
+    "whyDifferent": "Why it's different"
+  },
+  "service": { "format": "Format", "scope": "Scope", "whoFor": "Who it's for" },
+  "announcements": {
+    "empty": "No announcements yet.",
+    "newlyPublished": "New announcement",
+    "readIt": "Read it",
+    "more": "Read more"
+  },
+  "articles": { "empty": "Articles are on the way." },
+  "about": { "placeholder": "Biography and teaching philosophy — coming soon." },
+  "contact": {
+    "name": "Your name", "email": "Email address", "message": "Message",
+    "send": "Send", "sending": "Sending…",
+    "sent": "Thank you — your message has been received.",
+    "error": "Something went wrong. Please try again, or email directly.",
+    "orEmail": "Or email directly:"
+  },
+  "refund": { "heading": "Refunds and cancellations", "fullPolicy": "Read the full policy" },
+  "status": {
+    "checking": "Checking…", "published": "Published", "comingSoon": "Coming soon",
+    "announced": "Announced", "enrollment_open": "Enrolment open",
+    "closing_soon": "Closing soon", "full": "Full", "in_progress": "In progress",
+    "completed": "Completed", "archived": "Archived", "available": "Available",
+    "limited": "Limited availability", "fully_booked": "Fully booked", "draft": "Draft"
+  },
+  "cta": {
+    "viewDetails": "View details", "enrol": "Enrol", "joinWaitlist": "Join the waiting list",
+    "registerInterest": "Register interest", "book": "Book", "enquire": "Enquire"
+  },
+  "seats": { "fewLeft": "Only a few places left" },
+  "time": { "d": "d", "h": "h", "m": "m", "closed": "Closed" },
+  "policy": {
+    "course": {
+      "fullRefundBefore": "Cancel more than 7 days before the start: full refund.",
+      "creditWithin": "Cancel within 7 days: credit toward a future cohort.",
+      "noneAfterStart": "No refund once the course has begun.",
+      "weCancelFullRefund": "If we cancel or postpone, you receive a full refund. Always."
+    },
+    "booking": {
+      "fullRefundNotice": "Cancel with 24 hours' notice or more: full refund.",
+      "lateBecomesCredit": "Cancel with less notice: the value is kept as credit, not lost.",
+      "creditValidity": "Credit is valid for 90 days.",
+      "weCancelFullRefund": "If we cancel, you receive a full refund. Always."
+    },
+    "physical": {
+      "noChangeOfMind": "No refunds for change of mind.",
+      "faultyReplaced": "Lost, damaged or incorrect items are replaced or refunded."
+    }
+  },
+  "footer": {
+    "newsletter": "Newsletter",
+    "newsletterBlurb": "Occasional notes on language, teaching, and new work.",
+    "emailLabel": "Email address", "subscribe": "Subscribe",
+    "explore": "Explore", "legal": "Legal", "privacy": "Privacy",
+    "terms": "Terms", "refunds": "Refund policy", "rights": "All rights reserved."
+  },
+  "a11y": { "mainNav": "Main navigation", "footerNav": "Footer navigation" },
+  "theme": { "toggle": "Switch theme" },
+  "locale": { "label": "Language" },
+  "review": { "banner": "Placeholder copy — not written by you. Edit before promoting this page." }
+}

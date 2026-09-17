@@ -1,0 +1,45 @@
+/* Design tokens — every functional pair CI-verified by scripts/check-contrast.mjs
+   DO NOT edit a --fn-* value without running `npm run a11y:contrast` */
+:root {
+  --bg: #F5F0E8;
+  --surface: #FFFFFF;
+  --surface-alt: #EFE8DC;
+  --border: #D9CFBE;
+  --fg: #0B1A2E;
+  --fg-muted: #5A6470;
+  --fn-copper: #7A5F2E;
+  --fn-teal: #3D6B6B;
+  --fn-grey: #5A6470;
+  --fn-rose: #96394E;
+  --fn-success: #2F6B45;
+  --on-copper: #F5F0E8;
+  --on-teal: #F5F0E8;
+  --decor-copper: #C9A96E;
+  --decor-teal: #3D6B6B;
+  --focus-ring: #7A5F2E;
+  --font-heading: var(--font-montserrat), system-ui, sans-serif;
+  --font-body: var(--font-lora), Georgia, serif;
+  --font-arabic: var(--font-amiri), 'Noto Naskh Arabic', serif;
+  --s-1: .5rem; --s-2: 1rem; --s-3: 1.5rem; --s-4: 2rem;
+  --s-5: 3rem; --s-6: 4rem; --s-7: 6rem;
+  --measure: 68ch; --radius: 4px; --radius-lg: 8px;
+  --transition: 200ms cubic-bezier(.4,0,.2,1);
+}
+[data-theme='dark'] {
+  --bg: #0B1A2E;
+  --surface: #16263C;
+  --surface-alt: #1E304A;
+  --border: #2A3C56;
+  --fg: #F5F0E8;
+  --fg-muted: #9AA6B4;
+  --fn-copper: #C9A96E;
+  --fn-teal: #7FB3B3;
+  --fn-grey: #9AA6B4;
+  --fn-rose: #E08E9C;
+  --fn-success: #7FC49B;
+  --on-copper: #0B1A2E;
+  --on-teal: #0B1A2E;
+  --decor-copper: #C9A96E;
+  --decor-teal: #3D6B6B;
+  --focus-ring: #C9A96E;
+}
